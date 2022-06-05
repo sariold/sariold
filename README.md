@@ -1,24 +1,12 @@
 ### Hi there 👋
 
-<!-- STATISTICS ABOUT PROFILE -->
+- 🔭 I’m currently working on blockchain development and machine learning.
+- 🌱 I’m currently learning Solidty and about different types of neural networks.
+- 👯 I’m looking to collaborate on smart contracts and dApps.
+- 💬 Ask me about my next project plans.
+- ⚡ Fun fact: I'm currently a research assistant for machine learning forecasting.
 
+<!-- STATISTICS ABOUT PROFILE -->
  📶 Stats:<br><br>
- 
- 
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**sariold/sariold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
