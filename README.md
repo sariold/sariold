@@ -9,4 +9,4 @@
 <!-- STATISTICS ABOUT PROFILE -->
  📶 Stats:
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&langs_count=10&count_private=true&theme=dark&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&langs_count=10&theme=dark&align=right&width=40%&layout=compact&hide=procfile,ejs)](https://github.com/anuraghazra/github-readme-stats)
