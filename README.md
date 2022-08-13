@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on smart contracts and dApps.
 - 💬 Ask me about my next project plans.
 - ⚡ Fun fact: I'm currently a research assistant for machine learning forecasting.
-- 🪙 Blockchain Developer Certified
 
 <!-- STATISTICS ABOUT PROFILE -->
  📶 Stats:
