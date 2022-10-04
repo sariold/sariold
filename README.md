@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I'm currently a research assistant for machine learning forecasting.
 - 🪙 Blockchain Developer Certified
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&langs_count=10&theme=dark&align=right&width=40%&layout=compact&hide=procfile,ejs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&langs_count=10&theme=dark&align=right&width=40%&layout=compact&hide=procfile,ejs&PAT_1=sariold)](https://github.com/anuraghazra/github-readme-stats)
