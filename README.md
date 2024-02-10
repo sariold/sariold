@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Solidty and about different types of neural networks.
 - 👯 I’m looking to collaborate on smart contracts and dApps.
 - 💬 Ask me about my next project plans.
-- ⚡ Fun fact: I'm currently a research assistant for machine learning forecasting.
 - 🪙 Blockchain Developer Certified
 
 <a href="https://linkedin.com/in/sariold">
