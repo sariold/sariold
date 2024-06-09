@@ -22,5 +22,5 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&layout=compact&theme=light"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariol&layout=compact" />
 </picture>
