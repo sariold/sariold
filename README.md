@@ -1,26 +1,27 @@
-### Hi there 👋
+# 🚀 Hey there! I'm Diego Renzo Sariol  
+### 🧠 AI | 🔗 Blockchain | 💻 Full-Stack  
 
-- 🔭 I’m currently working on blockchain development and machine learning.
-- 🌱 I’m currently learning Solidty and about different types of neural networks.
-- 👯 I’m looking to collaborate on smart contracts and dApps.
-- 💬 Ask me about my next project plans.
-- 🪙 Blockchain Developer Certified
+👋 Welcome to my digital playground! I'm a **Software & Machine Learning Engineer** passionate about building intelligent systems, scaling applications, and pushing the boundaries of **AI & Blockchain**.  
 
-<a href="https://linkedin.com/in/sariold">
-  <img alt="Diego Sariol LinkedIn" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
-</a>
+## 🔥 What I Do  
+- 🤖 **Machine Learning & Deep Learning** – Crafting models that learn, predict, and optimize.  
+- 🔗 **Blockchain Development** – Building decentralized applications & smart contracts.  
+- 🌐 **Full-Stack Engineering** – From backend logic to pixel-perfect UI/UX.  
 
-<br />
-<br />
+## 🛠 Tech Stack  
+💡 **Languages:** Python, JavaScript, C++, Solidity  
+🧠 **AI/ML:** PyTorch, TensorFlow, Scikit-learn  
+🖥 **Web Dev:** React.js, Node.js, Express.js, Tailwind  
+📦 **Databases:** PostgreSQL, MongoDB, SQL  
+🚀 **DevOps:** Docker, CI/CD, TDD, Agile  
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&layout=compact&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sariold&layout=compact&theme=light"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariol&layout=compact" />
-</picture>
+## 🏆 Featured Projects  
+🔹 **[Sentient Stock Analysis](https://github.com/sariold/Sentient-Stocks/blob/main/Sentient%20Stocks.pdf)** – AI-powered stock predictions based on sentiment analysis.  
+🔹 **[MATIC $tone](https://github.com/sariold/Matic-Stone)** – A blockchain-based NFT trading card game.  
+
+## 📬 Let's Connect!  
+💼 [LinkedIn](https://linkedin.com/in/sariold/)  
+📂 [GitHub](https://github.com/sariold)  
+📧 sarioldrenzo@gmail.com  
+
+Always open to exciting projects, collaborations, and tech discussions. Let’s build something awesome! 🚀🔥  
