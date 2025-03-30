@@ -11,17 +11,17 @@
 ## 🛠 Tech Stack  
 💡 **Languages:** Python, Java, C, C++, JavaScript Solidity  
 🧠 **AI/ML:** PyTorch, Keras, TensorFlow, Scikit-learn  
-💻 **Web Dev:** React.js, Node.js, Express.js, Tailwind CSS, Web3
-📦 **Databases:** SQL, PostgreSQL, MongoDB 
+💻 **Web Dev:** React.js, Node.js, Express.js, Tailwind CSS, Web3  
+📦 **Databases:** SQL, PostgreSQL, MongoDB  
 🚀 **DevOps:** Object-Oriented Programming (OOP), Agile (Scrum), TDD, CI/CD, Docker
 
 ## 🏆 Featured Projects  
 🔹 **[Sentient Stock Analysis](https://github.com/sariold/Sentient-Stocks/blob/main/Sentient%20Stocks.pdf)** – AI-powered stock predictions based on sentiment analysis.  
 🔹 **[MATIC $tone](https://github.com/sariold/Matic-Stone)** – A blockchain-based NFT trading card game.  
 
-## 📬 Let us Connect!  
+## 📬 Let's Connect!  
 💼 [LinkedIn](https://linkedin.com/in/sariold/)  
 📂 [GitHub](https://github.com/sariold)  
 📧 sarioldrenzo@gmail.com  
 
-Always open to exciting projects, collaborations, and tech discussions. Let us build something awesome! 🚀🔥  
+Always open to exciting projects, collaborations, and tech discussions. Let's build something awesome! 🚀🔥  
