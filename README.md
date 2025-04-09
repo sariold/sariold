@@ -22,6 +22,5 @@
 ## 📬 Let's Connect!  
 💼 [LinkedIn](https://linkedin.com/in/sariold/)  
 📂 [GitHub](https://github.com/sariold)  
-📧 sarioldrenzo@gmail.com  
-
+📧 diego@sariol.dev
 Always open to exciting projects, collaborations, and tech discussions. Let's build something awesome! 🚀🔥  
