@@ -16,7 +16,7 @@
 🚀 **DevOps:** Object-Oriented Programming (OOP), Agile (Scrum), TDD, CI/CD, Docker
 
 ## 🏆 Featured Projects  
-🔹 **[Sentient Stock Analysis](https://github.com/sariold/Sentient-Stocks/blob/main/Sentient%20Stocks.pdf)** – AI-powered stock predictions based on sentiment analysis.  
+🔹 **[Sentient Stock Analysis](https://github.com/sariold/Research-Papers/blob/main/Sentient%20Stocks%20-%20Discovering%20Market%20Mysteries%20Through%20Sectorized%20Sentiment%20Analysis%20and%20Predictive%20Modeling.pdf)** – AI-powered stock predictions based on sentiment analysis.  
 🔹 **[MATIC $tone](https://github.com/sariold/Matic-Stone)** – A blockchain-based NFT trading card game.  
 
 ## 📬 Let's Connect!  
