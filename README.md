@@ -6,7 +6,7 @@
 ## 🔥 What I Do  
 - 🤖 **Machine Learning & Deep Learning** – Crafting models that learn, predict, and optimize.  
 - 🔗 **Blockchain Development** – Building decentralized applications & smart contracts.  
-- 🌐 **Full-Stack Engineering** – From backend logic to pixel-perfect UI/UX.  
+- 🧩 **Full-Stack Engineering** – From backend logic to pixel-perfect UI/UX.  
 
 ## 🛠 Tech Stack  
 💡 **Languages:** Python, Java, C, C++, JavaScript Solidity  
@@ -15,12 +15,10 @@
 📦 **Databases:** SQL, PostgreSQL, MongoDB  
 🚀 **DevOps:** Object-Oriented Programming (OOP), Agile (Scrum), TDD, CI/CD, Docker
 
-## 🏆 Featured Projects  
-🔹 **[Sentient Stock Analysis](https://github.com/sariold/Research-Papers/blob/main/Sentient%20Stocks%20-%20Discovering%20Market%20Mysteries%20Through%20Sectorized%20Sentiment%20Analysis%20and%20Predictive%20Modeling.pdf)** – AI-powered stock predictions based on sentiment analysis.  
-🔹 **[$MATIC Stone](https://github.com/sariold/Matic-Stone)** – A blockchain-based NFT trading card game.  
-
 ## 📬 Let's Connect!  
+🌐 [Portfolio](https://sariol.dev)  
 💼 [LinkedIn](https://linkedin.com/in/sariold/)  
 📂 [GitHub](https://github.com/sariold)  
-📧 diego@sariol.dev
+📧 diego@sariol.dev  
+
 Always open to exciting projects, collaborations, and tech discussions. Let's build something awesome! 🚀🔥  
