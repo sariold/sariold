@@ -17,7 +17,7 @@
 
 ## 🏆 Featured Projects  
 🔹 **[Sentient Stock Analysis](https://github.com/sariold/Research-Papers/blob/main/Sentient%20Stocks%20-%20Discovering%20Market%20Mysteries%20Through%20Sectorized%20Sentiment%20Analysis%20and%20Predictive%20Modeling.pdf)** – AI-powered stock predictions based on sentiment analysis.  
-🔹 **[MATIC $tone](https://github.com/sariold/Matic-Stone)** – A blockchain-based NFT trading card game.  
+🔹 **[$MATIC Stone](https://github.com/sariold/Matic-Stone)** – A blockchain-based NFT trading card game.  
 
 ## 📬 Let's Connect!  
 💼 [LinkedIn](https://linkedin.com/in/sariold/)  
